@@ -8,3 +8,5 @@ Basic python games
 - Ping Pong
 
 - Sudoku
+
+- Snake
